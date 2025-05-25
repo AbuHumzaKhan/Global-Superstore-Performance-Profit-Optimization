@@ -1,4 +1,5 @@
 📦 Global Superstore Performance Analysis
+
 This project analyzes data from the Global Superstore dataset to uncover regional performance patterns, identify sales and profit trends, and provide strategic insights for profit optimization using Python.
 
 📂 Project Structure
@@ -51,4 +52,4 @@ Focus marketing on high-profit sub-categories
 
 🙌 Author
 Abu Humza Khan
-GitHub Profile (https://github.com/AbuHumzaKhan/E-Commerce-Store-Analysis)>
+GitHub Profile <(https://github.com/AbuHumzaKhan/E-Commerce-Store-Analysis)>
