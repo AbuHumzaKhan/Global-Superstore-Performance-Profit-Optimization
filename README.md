@@ -52,4 +52,5 @@ Focus marketing on high-profit sub-categories
 
 🙌 Author
 Abu Humza Khan
-GitHub Profile <(https://github.com/AbuHumzaKhan/E-Commerce-Store-Analysis)>
+📎 GitHub Profile: github.com/AbuHumzaKhan
+🔗 Related Project: E-Commerce Store Analysis
